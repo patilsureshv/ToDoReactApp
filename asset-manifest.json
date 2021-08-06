@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patilsureshv/ToDoReactApp/static/css/main.a617e044.chunk.css",
+    "main.js": "/patilsureshv/ToDoReactApp/static/js/main.236a6e9c.chunk.js",
+    "main.js.map": "/patilsureshv/ToDoReactApp/static/js/main.236a6e9c.chunk.js.map",
+    "runtime-main.js": "/patilsureshv/ToDoReactApp/static/js/runtime-main.faee0e11.js",
+    "runtime-main.js.map": "/patilsureshv/ToDoReactApp/static/js/runtime-main.faee0e11.js.map",
+    "static/js/2.2fffd89b.chunk.js": "/patilsureshv/ToDoReactApp/static/js/2.2fffd89b.chunk.js",
+    "static/js/2.2fffd89b.chunk.js.map": "/patilsureshv/ToDoReactApp/static/js/2.2fffd89b.chunk.js.map",
+    "static/js/3.402703bf.chunk.js": "/patilsureshv/ToDoReactApp/static/js/3.402703bf.chunk.js",
+    "static/js/3.402703bf.chunk.js.map": "/patilsureshv/ToDoReactApp/static/js/3.402703bf.chunk.js.map",
+    "index.html": "/patilsureshv/ToDoReactApp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/patilsureshv/ToDoReactApp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2fffd89b.chunk.js.LICENSE.txt": "/patilsureshv/ToDoReactApp/static/js/2.2fffd89b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/patilsureshv/ToDoReactApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faee0e11.js",
+    "static/js/2.2fffd89b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.236a6e9c.chunk.js"
+  ]
+}
